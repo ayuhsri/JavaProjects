@@ -1,1 +1,1 @@
-# JavaProjects
+# Mini-Projects
